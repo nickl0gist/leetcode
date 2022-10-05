@@ -36,6 +36,10 @@ package int_to_roman;
  */
 public class IntegerToRoman {
 
+    /**
+     * Memory Usage: 43,2 MB, less than 85.46%
+     * <br>Runtime: 19 ms, faster than 23,93%
+     */
     public static String intToRoman(int num) {
 
         String str = "";

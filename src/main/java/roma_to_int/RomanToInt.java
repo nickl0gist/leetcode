@@ -31,6 +31,8 @@ public class RomanToInt {
 
     /**
      * Collect Integer representation based on value and place of each Roman Number string.
+     * <br>Runtime: 8 ms faster than 64,47%
+     * <br>Memory Usage: 44.9 MB less than 78,67%
      */
     public static int romanToInt(String s) {
         int result = 0;
